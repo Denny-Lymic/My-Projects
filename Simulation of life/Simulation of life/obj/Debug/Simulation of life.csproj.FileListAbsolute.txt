@@ -1,0 +1,11 @@
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\bin\Debug\Simulation of life.exe.config
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\bin\Debug\Simulation of life.exe
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\bin\Debug\Simulation of life.pdb
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\obj\Debug\Simulation of life.csproj.AssemblyReference.cache
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\obj\Debug\Simulation of life.csproj.SuggestedBindingRedirects.cache
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\obj\Debug\Simulation_of_life.Form1.resources
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\obj\Debug\Simulation_of_life.Properties.Resources.resources
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\obj\Debug\Simulation of life.csproj.GenerateResource.cache
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\obj\Debug\Simulation of life.csproj.CoreCompileInputs.cache
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\obj\Debug\Simulation of life.exe
+C:\Users\denig\OneDrive\Рабочий стол\Simulation of life\Simulation of life\obj\Debug\Simulation of life.pdb
